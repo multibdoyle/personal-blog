@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+    title: `A New York City Diary`,
+    description: `Eating, earning and burning through New York City '21`,
+    author: `A New York City Diary`,
+    siteUrl: `https://github.com/multibdoyle?tab=repositories`,
     social: {
-      twitter: `wang0nya`,
+      twitter: ``,
       facebook: ``,
-      github: `wangonya`,
-      linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      github: `multibdoyle`,
+      linkedin: `in/brendan-doyle-403ba028/`,
+      email: `bdoyle.core@gmail.com`,
     },
   },
   plugins: [
@@ -76,7 +76,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `./static/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `./static/skeleton_praying.png`, // This path is relative to the root of the site.
       },
     },
     // `gatsby-plugin-offline`,
